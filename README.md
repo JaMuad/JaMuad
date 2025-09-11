@@ -11,7 +11,7 @@ Most of my work happens in private repos, but I drop useful stuff here when it c
 Currently securing things and automating the boring parts.
 
 ## 📫 How to reach me:
-- **Email:** justmuad@outlook.com
+- **(Public) Email:** justmuad@outlook.com
 ---
 
 *"Trust nothing, verify everything, then add another layer of verification."*
